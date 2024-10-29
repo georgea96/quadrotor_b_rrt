@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository is part of a group project done by Georgios Apostolides, Markos Gkontzaris, Kevin Voogd, and Guru Deep Singh as part of the Planning and Decision Making Course (RO47005) at TU Delft. The project focuses on developing a path-planning algorithm for a quadrotor using the **Bi-directional Rapidly-exploring Random Tree (B-RRT) approach**. B-RRT optimizes the list of vertices sampled to provide a locally optimized trajectory, which is faster and computationally efficient compared to traditional RRT. Our algorithm was implemented as an extension of RRT and can potentially be expanded into more advanced path-planning algorithms. The planned trajectory is smoothened using minimum snap, and the collision-free paths were simulated in MATLAB while accounting for the dynamics of a Crazyflie 2.0 quadrotor. This project builds on an existing project by Yiren Lu, Myles Cao, Wudao Luo, and Xuanyu Zhao, available [here](https://github.com/yrlu/quadrotor). All credit for the foundational code goes to the original authors of that repository.
+This repository is part of a group project done by Georgios Apostolides, Markos Gkontzaris, Kevin Voogd, and Guru Deep Singh as part of the Planning and Decision Making Course (RO47005) at TU Delft. The project focuses on developing a path-planning algorithm for a quadrotor using the **Bi-directional Rapidly-exploring Random Tree (B-RRT) approach**. B-RRT optimizes the list of vertices sampled to provide a locally optimized trajectory, which is faster and computationally efficient compared to traditional RRT. Our algorithm was implemented as an extension of RRT and can potentially be expanded into more advanced path-planning algorithms. The planned trajectory is smoothened using minimum snap, and the collision-free paths were simulated in MATLAB while accounting for the dynamics of a Crazyflie 2.0 quadrotor. This project builds on an existing project by Yiren Lu, Myles Cao, Wudao Luo, and Xuanyu Zhao, available [[here]](https://github.com/yrlu/quadrotor). All credit for the foundational code goes to the original authors of that repository.
 
 
 ## Functionality
@@ -54,12 +54,12 @@ In folder `traj_planning/maps` there exist other maps with different types of ob
   
 
 The files that were written by us are:
-    - path_collision_checker.m 
-    - bi_directional_rrt_function.m
-    - bi_directional_rrt_function_on_view.m
-    - bi_directional_rrt_function_optimized.m 
-    - rrt_function.m
-    - rrt_goal_on_view.m back_tracking.m
+- `path_collision_checker.m `
+- `bi_directional_rrt_function.m`
+- `bi_directional_rrt_function_on_view.m`
+- `bi_directional_rrt_function_optimized.m `
+- `rrt_function.m`
+- `rrt_goal_on_view.m back_tracking.m`
 
 ## Informed B-RRT Results
 
