@@ -12,8 +12,6 @@ This repository is part of a group project done by Georgios Apostolides, Markos 
 | <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/Proposed_B_RRT.gif" alt="Proposed RRT" width="450" /> | <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/Vanila_RRT_Algorithm.gif" alt="Vanilla RRT" width="450" /> |
 | <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/map3_rrt_opt.png" alt="Proposed RRT" width="450" /> | <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/map3_rrt.png" alt="Vanilla RRT" width="450" /> |
 
-|https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/map3_rrt1.png|
-
 ## Functionality
 
 The project involves modeling a Crazyflie 2.0 quadrotor, equipped with position and attitude controllers that enable it to follow a trajectory calculated with the B-RRT algorithm. The objective is to plan a collision-free path from a starting position outside a "room on fire" to a goal location near a human in need of assistance, where the quadrotor could theoretically deliver necessary tools or communication devices. The B-RRT algorithm guides the quadrotor's path through a 3D space filled with static obstacles, utilizing bidirectional trees to efficiently compute a feasible path.
