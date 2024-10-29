@@ -9,8 +9,9 @@ This repository is part of a group project done by Georgios Apostolides, Markos 
 
 | B-Informed RRT                                 | RRT-Algorithm                               |
 |------------------------------------------------|---------------------------------------------|
-| <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/Proposed_B_RRT.gif" alt="Proposed RRT" width="300" /> | <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/Vanila_RRT_Algorithm.gif" alt="Vanilla RRT" width="300" /> |
-| <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/map3_rrt_opt.png" alt="Proposed RRT" width="300" /> | <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/map3_rrt.png" alt="Vanilla RRT" width="300" /> |
+| <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/Proposed_B_RRT.gif" alt="Proposed RRT" width="400" /> | <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/Vanila_RRT_Algorithm.gif" alt="Vanilla RRT" width="400" /> |
+| <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/map3_rrt_opt.png" alt="Proposed RRT" width="400" /> | 
+<img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/map3_rrt.png" alt="Vanilla RRT" width="400" /> |
 
 ## Functionality
 
