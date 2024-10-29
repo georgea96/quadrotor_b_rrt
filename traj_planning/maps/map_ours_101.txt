@@ -1,0 +1,10 @@
+
+# map1
+
+boundary 0.0 -5.0 0.0 10.0 20.0 6.0
+#   x_min, y_min, z_mi  x_max, y_max, z_max   R    G   B
+block  0.0  0.0    0.0   0.2   0.2    0.2   255   0   0
+
+
+
+
