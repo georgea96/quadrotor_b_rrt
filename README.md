@@ -54,12 +54,12 @@ In folder `traj_planning/maps` there exist other maps with different types of ob
   
 
 The files that were written by us are:
-    - path_collision_checker.m 
-    - bi_directional_rrt_function.m
-    - bi_directional_rrt_function_on_view.m
-    - bi_directional_rrt_function_optimized.m 
-    - rrt_function.m
-    - rrt_goal_on_view.m back_tracking.m
+- `path_collision_checker.m `
+- `bi_directional_rrt_function.m`
+- `bi_directional_rrt_function_on_view.m`
+- `bi_directional_rrt_function_optimized.m `
+- `rrt_function.m`
+- `rrt_goal_on_view.m back_tracking.m`
 
 ## Informed B-RRT Results
 
