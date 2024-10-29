@@ -5,12 +5,16 @@
 
 This repository is part of a group project done by Georgios Apostolides, Markos Gkontzaris, Kevin Voogd, and Guru Deep Singh as part of the Planning and Decision Making Course (RO47005) at TU Delft. The project focuses on developing a path-planning algorithm for a quadrotor using the **Bi-directional Rapidly-exploring Random Tree (B-RRT) approach**. B-RRT optimizes the list of vertices sampled to provide a locally optimized trajectory, which is faster and computationally efficient compared to traditional RRT. Our algorithm was implemented as an extension of RRT and can potentially be expanded into more advanced path-planning algorithms. The planned trajectory is smoothened using minimum snap, and the collision-free paths were simulated in MATLAB while accounting for the dynamics of a Crazyflie 2.0 quadrotor. This project builds on an existing project by Yiren Lu, Myles Cao, Wudao Luo, and Xuanyu Zhao, available [[here]](https://github.com/yrlu/quadrotor). All credit for the foundational code goes to the original authors of that repository.
 
-**Example Results from Different Maps:**
+**Example Results from Different Maps:** 
 
 | B-Informed RRT                                 | RRT-Algorithm                               |
 |------------------------------------------------|---------------------------------------------|
 | <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/Proposed_B_RRT.gif" alt="Proposed RRT" width="400" /> | <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/Vanila_RRT_Algorithm.gif" alt="Vanilla RRT" width="400" /> |
 | <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/map3_rrt_opt.png" alt="Proposed RRT" width="400" /> | <img src="https://github.com/georgea96/quadrotor_b_rrt/blob/main/readme_media/map3_rrt.png" alt="Vanilla RRT" width="400" /> |
+
+**Youtube Videos:**
+[[Proposed RRT]](https://www.youtube.com/watch?v=5SEZZBKRWCk&list=PLwrBUziROJTc4guGRFj6frbSOlASaWvrS&index=2&ab_channel=MarkosGkozntaris)
+[[RRT-Algorithm]](https://www.youtube.com/watch?v=7G8JMncbQEI&list=PLwrBUziROJTc4guGRFj6frbSOlASaWvrS&index=1&ab_channel=MarkosGkozntaris)
 
 ## Functionality
 
